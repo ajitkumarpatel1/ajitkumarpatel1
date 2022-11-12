@@ -1,4 +1,4 @@
-[![MasterHead](https://cloudgate.ie/wp-content/uploads/2020/09/artificial-intelligence.gif)]
+
 <h1 align="center">Hi 👋, I'm ajit kumar</h1>
 <h3 align="center">A passionate about AI/ML from India</h3>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
